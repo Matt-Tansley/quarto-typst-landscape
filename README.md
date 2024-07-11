@@ -1,4 +1,4 @@
-# Matt Format
+# quarto-typst-landscape
 
 ## Installing
 
