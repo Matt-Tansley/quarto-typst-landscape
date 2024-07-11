@@ -1,0 +1,13 @@
+title: quarto-typst-landscape
+author: Matthew Tansley
+version: 1.0.0
+quarto-required: ">=1.5.0"
+contributes:
+  formats: 
+    typst:
+      font-paths: Ubuntu
+      template-partials:
+        - typst-template.typ
+        - typst-show.typ
+      filters:
+        - quarto-typst-landscape.lua
