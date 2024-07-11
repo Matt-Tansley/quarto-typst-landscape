@@ -1,5 +1,7 @@
 # quarto-typst-landscape
 
+![Preview of this template](example.png)
+
 ## Installing
 
 ``` bash
@@ -14,4 +16,6 @@ Basic landscape template for use with Quarto + Typst.
 
 ## References
 
-Making Pretty PDFs with Typst (and Quarto). Nicola Rennie. January 31, 2024. nrennie.rbind.io/blog/pdf-quarto/making-pdf-with-quarto-typst-latex
+Inspired by:
+
+-   Making Pretty PDFs with Typst (and Quarto). Nicola Rennie. January 31, 2024. nrennie.rbind.io/blog/pdf-quarto/making-pdf-with-quarto-typst-latex
